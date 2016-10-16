@@ -226,7 +226,7 @@ function create_config( )
     "anti_spam",
     "admin"
     },
-    sudo_users = {85831686},--Sudo users
+    sudo_users = {211752618},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[SpheroBot + Helper
